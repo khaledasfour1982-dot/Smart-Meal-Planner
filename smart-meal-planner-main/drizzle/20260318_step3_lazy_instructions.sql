@@ -1,0 +1,1 @@
+ALTER TABLE "smart_meal_meal" ADD COLUMN "short_summary" text NOT NULL DEFAULT '';--> statement-breakpoint

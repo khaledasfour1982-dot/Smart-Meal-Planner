@@ -1,0 +1,842 @@
+[
+  {
+    "name": "banana",
+    "category": "Produce",
+    "unit": "kg",
+    "estimatedPriceEur": 1.29,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "apple",
+    "category": "Produce",
+    "unit": "kg",
+    "estimatedPriceEur": 1.99,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "tomato",
+    "category": "Produce",
+    "unit": "kg",
+    "estimatedPriceEur": 1.79,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "cucumber",
+    "category": "Produce",
+    "unit": "piece",
+    "estimatedPriceEur": 0.59,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "onion",
+    "category": "Produce",
+    "unit": "kg",
+    "estimatedPriceEur": 0.99,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "garlic",
+    "category": "Produce",
+    "unit": "piece",
+    "estimatedPriceEur": 0.45,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "carrot",
+    "category": "Produce",
+    "unit": "kg",
+    "estimatedPriceEur": 0.99,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "potato",
+    "category": "Produce",
+    "unit": "kg",
+    "estimatedPriceEur": 1.09,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "leek",
+    "category": "Produce",
+    "unit": "piece",
+    "estimatedPriceEur": 0.89,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "bell pepper",
+    "category": "Produce",
+    "unit": "piece",
+    "estimatedPriceEur": 0.79,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "zucchini",
+    "category": "Produce",
+    "unit": "piece",
+    "estimatedPriceEur": 0.79,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "spinach",
+    "category": "Produce",
+    "unit": "pack",
+    "estimatedPriceEur": 1.49,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "lettuce mix",
+    "category": "Produce",
+    "unit": "pack",
+    "estimatedPriceEur": 0.55,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "mushroom",
+    "category": "Produce",
+    "unit": "pack",
+    "estimatedPriceEur": 0.89,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "broccoli",
+    "category": "Produce",
+    "unit": "piece",
+    "estimatedPriceEur": 1.29,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "cauliflower",
+    "category": "Produce",
+    "unit": "piece",
+    "estimatedPriceEur": 1.49,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "lemon",
+    "category": "Produce",
+    "unit": "piece",
+    "estimatedPriceEur": 0.39,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "lime",
+    "category": "Produce",
+    "unit": "piece",
+    "estimatedPriceEur": 0.39,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "shallot",
+    "category": "Produce",
+    "unit": "pack",
+    "estimatedPriceEur": 0.99,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "cherry tomato",
+    "category": "Produce",
+    "unit": "pack",
+    "estimatedPriceEur": 1.49,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "chicken breast",
+    "category": "Meat & Fish",
+    "unit": "kg",
+    "estimatedPriceEur": 5.49,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "chicken thigh",
+    "category": "Meat & Fish",
+    "unit": "kg",
+    "estimatedPriceEur": 4.49,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "minced beef",
+    "category": "Meat & Fish",
+    "unit": "kg",
+    "estimatedPriceEur": 6.99,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "minced pork and beef mix",
+    "category": "Meat & Fish",
+    "unit": "kg",
+    "estimatedPriceEur": 4.99,
+    "typicalStore": "Colruyt"
+  },
+  {
+    "name": "pork shoulder",
+    "category": "Meat & Fish",
+    "unit": "kg",
+    "estimatedPriceEur": 5.99,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "bacon",
+    "category": "Meat & Fish",
+    "unit": "pack",
+    "estimatedPriceEur": 1.79,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "ham",
+    "category": "Meat & Fish",
+    "unit": "pack",
+    "estimatedPriceEur": 1.79,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "salmon fillet",
+    "category": "Meat & Fish",
+    "unit": "kg",
+    "estimatedPriceEur": 12.99,
+    "typicalStore": "Delhaize"
+  },
+  {
+    "name": "tuna in brine (canned)",
+    "category": "Meat & Fish",
+    "unit": "g",
+    "estimatedPriceEur": 0.99,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "shrimp",
+    "category": "Meat & Fish",
+    "unit": "g",
+    "estimatedPriceEur": 3.49,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "beef steak",
+    "category": "Meat & Fish",
+    "unit": "kg",
+    "estimatedPriceEur": 14.99,
+    "typicalStore": "Delhaize"
+  },
+  {
+    "name": "pork sausage",
+    "category": "Meat & Fish",
+    "unit": "g",
+    "estimatedPriceEur": 2.49,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "turkey breast",
+    "category": "Meat & Fish",
+    "unit": "kg",
+    "estimatedPriceEur": 7.99,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "fish fillet (white)",
+    "category": "Meat & Fish",
+    "unit": "kg",
+    "estimatedPriceEur": 9.99,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "lamb chop",
+    "category": "Meat & Fish",
+    "unit": "kg",
+    "estimatedPriceEur": 16.99,
+    "typicalStore": "Delhaize"
+  },
+  {
+    "name": "whole milk",
+    "category": "Dairy & Eggs",
+    "unit": "L",
+    "estimatedPriceEur": 1.25,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "semi-skimmed milk",
+    "category": "Dairy & Eggs",
+    "unit": "L",
+    "estimatedPriceEur": 1.22,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "eggs",
+    "category": "Dairy & Eggs",
+    "unit": "piece",
+    "estimatedPriceEur": 0.19,
+    "typicalStore": "Colruyt"
+  },
+  {
+    "name": "butter",
+    "category": "Dairy & Eggs",
+    "unit": "g",
+    "estimatedPriceEur": 1.99,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "plain yogurt",
+    "category": "Dairy & Eggs",
+    "unit": "L",
+    "estimatedPriceEur": 0.79,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "gouda cheese",
+    "category": "Dairy & Eggs",
+    "unit": "g",
+    "estimatedPriceEur": 1.99,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "mozzarella",
+    "category": "Dairy & Eggs",
+    "unit": "g",
+    "estimatedPriceEur": 0.49,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "cream cheese",
+    "category": "Dairy & Eggs",
+    "unit": "g",
+    "estimatedPriceEur": 0.79,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "heavy cream",
+    "category": "Dairy & Eggs",
+    "unit": "ml",
+    "estimatedPriceEur": 0.99,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "sour cream",
+    "category": "Dairy & Eggs",
+    "unit": "ml",
+    "estimatedPriceEur": 0.89,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "parmesan",
+    "category": "Dairy & Eggs",
+    "unit": "g",
+    "estimatedPriceEur": 2.49,
+    "typicalStore": "Delhaize"
+  },
+  {
+    "name": "greek yogurt",
+    "category": "Dairy & Eggs",
+    "unit": "g",
+    "estimatedPriceEur": 1.29,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "spaghetti",
+    "category": "Pasta Rice & Grains",
+    "unit": "g",
+    "estimatedPriceEur": 0.89,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "penne",
+    "category": "Pasta Rice & Grains",
+    "unit": "g",
+    "estimatedPriceEur": 0.89,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "fusilli",
+    "category": "Pasta Rice & Grains",
+    "unit": "g",
+    "estimatedPriceEur": 0.89,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "basmati rice",
+    "category": "Pasta Rice & Grains",
+    "unit": "kg",
+    "estimatedPriceEur": 1.59,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "white rice",
+    "category": "Pasta Rice & Grains",
+    "unit": "kg",
+    "estimatedPriceEur": 1.29,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "couscous",
+    "category": "Pasta Rice & Grains",
+    "unit": "g",
+    "estimatedPriceEur": 1.19,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "oats",
+    "category": "Pasta Rice & Grains",
+    "unit": "g",
+    "estimatedPriceEur": 0.99,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "lasagne sheets",
+    "category": "Pasta Rice & Grains",
+    "unit": "g",
+    "estimatedPriceEur": 1.09,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "quinoa",
+    "category": "Pasta Rice & Grains",
+    "unit": "g",
+    "estimatedPriceEur": 2.49,
+    "typicalStore": "Delhaize"
+  },
+  {
+    "name": "breadcrumbs",
+    "category": "Pasta Rice & Grains",
+    "unit": "g",
+    "estimatedPriceEur": 0.89,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "canned tomatoes",
+    "category": "Canned & Jarred",
+    "unit": "g",
+    "estimatedPriceEur": 0.69,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "tomato paste",
+    "category": "Canned & Jarred",
+    "unit": "g",
+    "estimatedPriceEur": 0.59,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "chickpeas (canned)",
+    "category": "Canned & Jarred",
+    "unit": "g",
+    "estimatedPriceEur": 0.79,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "red kidney beans (canned)",
+    "category": "Canned & Jarred",
+    "unit": "g",
+    "estimatedPriceEur": 0.79,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "lentils (canned)",
+    "category": "Canned & Jarred",
+    "unit": "g",
+    "estimatedPriceEur": 0.89,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "corn (canned)",
+    "category": "Canned & Jarred",
+    "unit": "g",
+    "estimatedPriceEur": 0.69,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "coconut milk (canned)",
+    "category": "Canned & Jarred",
+    "unit": "ml",
+    "estimatedPriceEur": 1.29,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "green peas (canned)",
+    "category": "Canned & Jarred",
+    "unit": "g",
+    "estimatedPriceEur": 0.69,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "sardines in oil (canned)",
+    "category": "Canned & Jarred",
+    "unit": "g",
+    "estimatedPriceEur": 1.29,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "vegetable broth",
+    "category": "Canned & Jarred",
+    "unit": "L",
+    "estimatedPriceEur": 0.99,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "frozen fries",
+    "category": "Frozen",
+    "unit": "kg",
+    "estimatedPriceEur": 0.79,
+    "typicalStore": "Colruyt"
+  },
+  {
+    "name": "frozen mixed vegetables",
+    "category": "Frozen",
+    "unit": "kg",
+    "estimatedPriceEur": 2.09,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "frozen spinach",
+    "category": "Frozen",
+    "unit": "kg",
+    "estimatedPriceEur": 1.49,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "frozen peas",
+    "category": "Frozen",
+    "unit": "kg",
+    "estimatedPriceEur": 1.29,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "frozen cauliflower",
+    "category": "Frozen",
+    "unit": "kg",
+    "estimatedPriceEur": 1.19,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "frozen fish sticks",
+    "category": "Frozen",
+    "unit": "pack",
+    "estimatedPriceEur": 1.99,
+    "typicalStore": "Colruyt"
+  },
+  {
+    "name": "frozen pizza margherita",
+    "category": "Frozen",
+    "unit": "piece",
+    "estimatedPriceEur": 1.79,
+    "typicalStore": "Lidl"
+  },
+  {
+    "name": "frozen shrimp",
+    "category": "Frozen",
+    "unit": "g",
+    "estimatedPriceEur": 3.49,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "white bread loaf",
+    "category": "Bakery",
+    "unit": "g",
+    "estimatedPriceEur": 1.39,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "whole wheat bread loaf",
+    "category": "Bakery",
+    "unit": "g",
+    "estimatedPriceEur": 1.79,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "baguette",
+    "category": "Bakery",
+    "unit": "piece",
+    "estimatedPriceEur": 0.69,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "flour tortillas (wraps)",
+    "category": "Bakery",
+    "unit": "pack",
+    "estimatedPriceEur": 0.99,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "croissant",
+    "category": "Bakery",
+    "unit": "piece",
+    "estimatedPriceEur": 0.89,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "pita bread",
+    "category": "Bakery",
+    "unit": "pack",
+    "estimatedPriceEur": 1.19,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "plain flour",
+    "category": "Bakery",
+    "unit": "kg",
+    "estimatedPriceEur": 0.79,
+    "typicalStore": "Colruyt"
+  },
+  {
+    "name": "mayonnaise",
+    "category": "Condiments & Sauces",
+    "unit": "ml",
+    "estimatedPriceEur": 1.49,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "ketchup",
+    "category": "Condiments & Sauces",
+    "unit": "ml",
+    "estimatedPriceEur": 1.29,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "mustard",
+    "category": "Condiments & Sauces",
+    "unit": "ml",
+    "estimatedPriceEur": 0.99,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "soy sauce",
+    "category": "Condiments & Sauces",
+    "unit": "ml",
+    "estimatedPriceEur": 1.49,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "bolognese pasta sauce",
+    "category": "Condiments & Sauces",
+    "unit": "ml",
+    "estimatedPriceEur": 1.99,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "tomato passata",
+    "category": "Condiments & Sauces",
+    "unit": "ml",
+    "estimatedPriceEur": 0.99,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "pesto",
+    "category": "Condiments & Sauces",
+    "unit": "ml",
+    "estimatedPriceEur": 2.49,
+    "typicalStore": "Delhaize"
+  },
+  {
+    "name": "hot sauce",
+    "category": "Condiments & Sauces",
+    "unit": "ml",
+    "estimatedPriceEur": 1.99,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "worcestershire sauce",
+    "category": "Condiments & Sauces",
+    "unit": "ml",
+    "estimatedPriceEur": 1.79,
+    "typicalStore": "Delhaize"
+  },
+  {
+    "name": "honey",
+    "category": "Condiments & Sauces",
+    "unit": "g",
+    "estimatedPriceEur": 2.49,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "sunflower oil",
+    "category": "Oils & Vinegars",
+    "unit": "L",
+    "estimatedPriceEur": 1.89,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "olive oil (extra virgin)",
+    "category": "Oils & Vinegars",
+    "unit": "L",
+    "estimatedPriceEur": 5.99,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "white wine vinegar",
+    "category": "Oils & Vinegars",
+    "unit": "ml",
+    "estimatedPriceEur": 0.89,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "balsamic vinegar",
+    "category": "Oils & Vinegars",
+    "unit": "ml",
+    "estimatedPriceEur": 2.49,
+    "typicalStore": "Delhaize"
+  },
+  {
+    "name": "apple cider vinegar",
+    "category": "Oils & Vinegars",
+    "unit": "ml",
+    "estimatedPriceEur": 1.49,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "salt",
+    "category": "Spices & Seasonings",
+    "unit": "kg",
+    "estimatedPriceEur": 0.59,
+    "typicalStore": "Colruyt"
+  },
+  {
+    "name": "black pepper",
+    "category": "Spices & Seasonings",
+    "unit": "g",
+    "estimatedPriceEur": 1.29,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "paprika powder",
+    "category": "Spices & Seasonings",
+    "unit": "g",
+    "estimatedPriceEur": 0.99,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "cumin",
+    "category": "Spices & Seasonings",
+    "unit": "g",
+    "estimatedPriceEur": 1.09,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "cinnamon",
+    "category": "Spices & Seasonings",
+    "unit": "g",
+    "estimatedPriceEur": 0.99,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "oregano",
+    "category": "Spices & Seasonings",
+    "unit": "g",
+    "estimatedPriceEur": 0.89,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "thyme",
+    "category": "Spices & Seasonings",
+    "unit": "g",
+    "estimatedPriceEur": 0.89,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "bay leaves",
+    "category": "Spices & Seasonings",
+    "unit": "g",
+    "estimatedPriceEur": 0.79,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "chili flakes",
+    "category": "Spices & Seasonings",
+    "unit": "g",
+    "estimatedPriceEur": 0.99,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "turmeric",
+    "category": "Spices & Seasonings",
+    "unit": "g",
+    "estimatedPriceEur": 1.19,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "curry powder",
+    "category": "Spices & Seasonings",
+    "unit": "g",
+    "estimatedPriceEur": 1.19,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "garlic powder",
+    "category": "Spices & Seasonings",
+    "unit": "g",
+    "estimatedPriceEur": 0.99,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "nutmeg",
+    "category": "Spices & Seasonings",
+    "unit": "g",
+    "estimatedPriceEur": 1.29,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "sugar",
+    "category": "Other",
+    "unit": "kg",
+    "estimatedPriceEur": 0.89,
+    "typicalStore": "Colruyt"
+  },
+  {
+    "name": "brown sugar",
+    "category": "Other",
+    "unit": "kg",
+    "estimatedPriceEur": 1.49,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "all-purpose flour",
+    "category": "Other",
+    "unit": "kg",
+    "estimatedPriceEur": 0.79,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "baking powder",
+    "category": "Other",
+    "unit": "g",
+    "estimatedPriceEur": 0.69,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "dark chocolate",
+    "category": "Other",
+    "unit": "g",
+    "estimatedPriceEur": 1.49,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "chocolate spread (hazelnut)",
+    "category": "Other",
+    "unit": "g",
+    "estimatedPriceEur": 3.99,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "jam (strawberry)",
+    "category": "Other",
+    "unit": "g",
+    "estimatedPriceEur": 1.49,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "chicken broth cube",
+    "category": "Other",
+    "unit": "piece",
+    "estimatedPriceEur": 0.29,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "lentils (dry)",
+    "category": "Other",
+    "unit": "g",
+    "estimatedPriceEur": 0.99,
+    "typicalStore": "Any"
+  },
+  {
+    "name": "dried chickpeas",
+    "category": "Other",
+    "unit": "g",
+    "estimatedPriceEur": 1.09,
+    "typicalStore": "Any"
+  }
+]

@@ -1,0 +1,83 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# database
+/prisma/db.sqlite
+/prisma/db.sqlite-journal
+db.sqlite
+
+# next.js
+/.next/
+/out/
+next-env.d.ts
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# local env files
+# do not commit any .env files to git, except for the .env.example file. https://create.t3.gg/en/usage/env-variables#using-environment-variables
+.env
+.env*.local
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+
+# idea files
+.idea
+
+# github files
+.github/*
+
+# docs
+docs/*
+
+# Local Tool Files
+/Images/
+images_For_chat/
+GEMINI.md
+ISSUES_19_20_21_CONTEXT.md
+/team-website/
+/drizzle/0001_perpetual_speed_demon.sql
+/drizzle/meta/0001_snapshot.json
+/drizzle/0002_pink_strong_guy.sql
+/drizzle/meta/0002_snapshot.json
+/drizzle/0003_shallow_logan.sql
+/drizzle/meta/0003_snapshot.json
+/drizzle/0004_married_mariko_yashida.sql
+/drizzle/0004_mixed_young_avengers.sql
+/drizzle/meta/0004_snapshot.json
+/drizzle/0005_easy_bill_hollister.sql
+/drizzle/meta/0005_snapshot.json
+/.angular/cache/21.1.4/SmartMealPlanner/vite/deps/@angular_core.js
+/.angular/cache/21.1.4/SmartMealPlanner/vite/deps/@angular_core.js.map
+/.angular/cache/21.1.4/SmartMealPlanner/vite/deps/@angular_platform-browser.js
+/.angular/cache/21.1.4/SmartMealPlanner/vite/deps/@angular_platform-browser.js.map
+/.angular/cache/21.1.4/SmartMealPlanner/vite/deps/@angular_router.js
+/.angular/cache/21.1.4/SmartMealPlanner/vite/deps/@angular_router.js.map
+/.angular/cache/21.1.4/SmartMealPlanner/vite/deps/_metadata.json
+/.angular/cache/21.1.4/SmartMealPlanner/vite/deps/chunk-FMUZX2C6.js
+/.angular/cache/21.1.4/SmartMealPlanner/vite/deps/chunk-FMUZX2C6.js.map
+/.angular/cache/21.1.4/SmartMealPlanner/vite/deps/chunk-UX4SMXDU.js
+/.angular/cache/21.1.4/SmartMealPlanner/vite/deps/chunk-UX4SMXDU.js.map
+/.angular/cache/21.1.4/SmartMealPlanner/vite/deps/package.json
+.vscode/settings.json

@@ -1,0 +1,1 @@
+ALTER TABLE "smart_meal_profile" ADD COLUMN "max_cook_time_minutes" integer DEFAULT 120;
